@@ -1,4 +1,4 @@
-package com.simulador.bacen;
+package com.simulador.api.bacen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
